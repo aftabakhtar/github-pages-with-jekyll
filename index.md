@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Aftab Akhtar's blog for OSS labs"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This page was created for OSS lab purposes.
